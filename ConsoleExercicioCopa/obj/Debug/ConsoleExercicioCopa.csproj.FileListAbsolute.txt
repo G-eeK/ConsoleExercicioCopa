@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\ConsoleExercicioCopa\ConsoleExercicioCopa\bin\Debug\ConsoleExercicioCopa.exe.config
+C:\Users\carlo\source\repos\ConsoleExercicioCopa\ConsoleExercicioCopa\bin\Debug\ConsoleExercicioCopa.exe
+C:\Users\carlo\source\repos\ConsoleExercicioCopa\ConsoleExercicioCopa\bin\Debug\ConsoleExercicioCopa.pdb
+C:\Users\carlo\source\repos\ConsoleExercicioCopa\ConsoleExercicioCopa\obj\Debug\ConsoleExercicioCopa.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\ConsoleExercicioCopa\ConsoleExercicioCopa\obj\Debug\ConsoleExercicioCopa.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\ConsoleExercicioCopa\ConsoleExercicioCopa\obj\Debug\ConsoleExercicioCopa.exe
+C:\Users\carlo\source\repos\ConsoleExercicioCopa\ConsoleExercicioCopa\obj\Debug\ConsoleExercicioCopa.pdb
+E:\Desenvolvimento\Exercicios Lógica\ConsoleExercicioCopa\ConsoleExercicioCopa\bin\Debug\ConsoleExercicioCopa.exe.config
+E:\Desenvolvimento\Exercicios Lógica\ConsoleExercicioCopa\ConsoleExercicioCopa\bin\Debug\ConsoleExercicioCopa.exe
+E:\Desenvolvimento\Exercicios Lógica\ConsoleExercicioCopa\ConsoleExercicioCopa\bin\Debug\ConsoleExercicioCopa.pdb
+E:\Desenvolvimento\Exercicios Lógica\ConsoleExercicioCopa\ConsoleExercicioCopa\obj\Debug\ConsoleExercicioCopa.csprojAssemblyReference.cache
+E:\Desenvolvimento\Exercicios Lógica\ConsoleExercicioCopa\ConsoleExercicioCopa\obj\Debug\ConsoleExercicioCopa.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Exercicios Lógica\ConsoleExercicioCopa\ConsoleExercicioCopa\obj\Debug\ConsoleExercicioCopa.exe
+E:\Desenvolvimento\Exercicios Lógica\ConsoleExercicioCopa\ConsoleExercicioCopa\obj\Debug\ConsoleExercicioCopa.pdb
